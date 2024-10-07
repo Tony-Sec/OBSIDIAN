@@ -1,2 +1,6 @@
-# Prueba_obsidian
-Prueba_obsidian
+# Obsidian
+Repositorio para aprender como usar OBSIDIAN
+
+## INDICE
+
+-[[Conectar bóveda con Github]]

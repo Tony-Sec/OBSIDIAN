@@ -24,4 +24,4 @@ https://ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX@github.com/ithinkwong/linked-bl
 	1. Clickar en el boton `+` en `Changes` .
 	2. Clickar en el tick para verificar el `commit`.
 	3. Clickar en `push` para subir los cambios.
-![https://github.com/Tony-Sec/OBSIDIAN/blob/main/img/change-commit-push.png](change-commit-push.png)
+![change-commit-push.png](https://github.com/Tony-Sec/OBSIDIAN/blob/main/img/change-commit-push.png)

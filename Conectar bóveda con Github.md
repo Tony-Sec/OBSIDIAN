@@ -16,7 +16,11 @@ Por ejemplo podría verse así:
 https://ghp_XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX@github.com/ithinkwong/linked-blog-starter-md.git
 ```
 
-7. Luego escribe en la carpeta que creaste en el paso 5 (por ejemplo `remote-blog/`)
-8. Reiniciar Obsidian
-9. Realizar modificaciones a tus notas
-10. Publica tus notas y ejecuta el comando “Obsidian Git: Create backup” abriendo la paleta de comandos (CMD/Ctrl + P)
+7. Luego escribe en la carpeta que creaste en el paso 5 (por ejemplo `remote-blog/`).
+8. Ejecuta el comando (Ctrl + P) para obtener la vista de Git : Open Source Control View .
+9. Reiniciar Obsidian.
+10. Realizar modificaciones a tus notas.
+11. En la vista Git : Open Source Control View se veran los cambios ejecutados:
+	1. Clickar en el boton `+` en `Changes` .
+	2. Clickar en el tick para verificar el `commit`.
+	3. Clickar en `push` para subir los cambios.
